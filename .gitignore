@@ -1,0 +1,14 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore IDE specific folders
+.vscode/
+.idea/
+*.iml
+
+# Ignore BlueJ files (if used)
+*.ctxt
+
+# Ignore OS files
+.DS_Store
+Thumbs.db

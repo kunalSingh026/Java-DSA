@@ -1,7 +1,7 @@
-# Java Data Structures & Algorithms (Java DSA)
+# Data Structures & Algorithms (Java DSA)
 Welcome to the **Java DSA** repository! This project contains clean, well-structured Java implementations of essential Data Structures, Algorithms, and coding exercises. It serves as a personal learning resource, reference guide, and practice hub.
 ## 📂 Project Structure
-Here is the directory structure of the repository, categorized by topics:
+Here is the directory structure of the repository, categorised by topics:
 ```text
 ├── Backtracking/
 │   └── N_Queens.java             # Solves the classic N-Queens puzzle
@@ -50,5 +50,5 @@ You can compile and run any of the files using your terminal.
 This repository includes a GitHub Actions CI workflow located at [java-ci.yml](.github/workflows/java-ci.yml) which automatically checks code correctness on every push or pull request to the `main` branch.
 - **Workflow Action:** Sets up JDK 17 (Temurin distribution) and compiles all `.java` files recursively to verify compilation success.
 ---
-## 🎨 Visualization and Dry Runs
+## 🎨 Visualisation and Dry Runs
 - The repository includes a `DryRun.excalidraw` file at the root. You can open this file using [Excalidraw](https://excalidraw.com/) to view or create visual traces and diagrams of recursion trees, backtracking paths, or memory layout dry runs.

@@ -1,4 +1,4 @@
-# Data Structures & Algorithms (Java DSA)
+# Data Structures & Algorithms (Java)
 Welcome to the **Java DSA** repository! This project contains clean, well-structured Java implementations of essential Data Structures, Algorithms, and coding exercises. It serves as a personal learning resource, reference guide, and practice hub.
 ## 📂 Project Structure
 Here is the directory structure of the repository, categorised by topics:
